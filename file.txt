@@ -1,1 +1,3 @@
-More content on master
+<<<<<<< HEAD
+master branchdagi qism
+>>>>>>> master
